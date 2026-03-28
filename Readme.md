@@ -2,7 +2,7 @@
 
 A Streamlit web app to help you prepare for job interviews in foreign languages.
 
-![ITW Trainer Screenshot](screenshot_itw.png)
+![ITW Trainer Screenshot](logo/screenshot_itw.png)
 
 ---
 
