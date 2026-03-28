@@ -10,9 +10,9 @@ A Streamlit web app to help you prepare for job interviews in foreign languages.
 
 ITW Trainer guides you through a realistic interview preparation flow:
 
-1. **Job Form** — Fill in your application details: company name, position, contract type, and job description.
-2. **ITW** — Generate 1 to 10 interview questions tailored to your application. Choose your target language (English, French, or Spanish) and record an audio answer for each question.
-3. **Report** — Generate a detailed feedback report in the selected language. Each answer is analyzed individually, and a global assessment is provided. The report can be downloaded as a **PDF**.
+1. **Job Form**: Fill in your application details: company name, position, contract type, and job description.
+2. **ITW**: Generate 1 to 10 interview questions tailored to your application. Choose your target language (English, French, or Spanish) and record an audio answer for each question.
+3. **Report**: Generate a detailed feedback report in the selected language. Each answer is analyzed individually, and a global assessment is provided. The report can be downloaded as a **PDF**.
 
 ---
 
